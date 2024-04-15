@@ -43,17 +43,10 @@ Once the application is running:
 The application is deployed on Streamlit Cloud, accessible via:
 [https://videogamesalesdashboard-wlr68yv9qsrbapficvne6b.streamlit.app/](https://videogamesalesdashboard-wlr68yv9qsrbapficvne6b.streamlit.app/)
 
-## Contributing
-Contributions are welcome. Here's how you can contribute:
-1. **Fork the Project**: Navigate to the original repository and click the 'Fork' button at the top right.
-2. **Create your Feature Branch**: `git checkout -b feature/AmazingFeature`
-3. **Commit your Changes**: `git commit -m 'Add some AmazingFeature'`
-4. **Push to the Branch**: `git push origin feature/AmazingFeature`
-5. **Open a Pull Request**: Go back to your fork on GitHub, click 'Pull request' and select your feature branch to compare with the original repository's main branch.
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - email@example.com  
+Howard Lee- howard199668.com  
 Project Link: [https://github.com/yourusername/videogamesalesdashboard](https://github.com/yourusername/videogamesalesdashboard)
