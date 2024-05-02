@@ -41,7 +41,7 @@ Once the application is running:
 
 ## Deployment
 The application is deployed on Streamlit Cloud, accessible via:
-[https://videogamesalesdashboard-wlr68yv9qsrbapficvne6b.streamlit.app/](https://videogamesalesdashboard-wlr68yv9qsrbapficvne6b.streamlit.app/)
+[https://videogamessalesdashboard.streamlit.app/](https://videogamessalesdashboard.streamlit.app/)
 
 
 ## License
